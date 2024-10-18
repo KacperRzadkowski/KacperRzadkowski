@@ -5,9 +5,7 @@ Hello there! I am a 22-year-old MSc student with a positive attitude and a passi
 - 🔭 I’m currently working on a business idea regarding the recruitment industry
 - 🌱 I’m currently studying Digital Economics and Leadership 
 - 👯 I’m looking to collaborate on the a business idea regarding the recruitment industry
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: kacper.rzadkowski@gmail.com
 
 <!--
 **KacperRzadkowski/KacperRzadkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
